@@ -58,7 +58,7 @@
 <a href="https://uniswap.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Uniswap_Logo.svg/1026px-Uniswap_Logo.svg.png" alt="Uniswap" width="40" height="40"/> </a>
 <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://cryptologos.cc/logos/chainlink-link-logo.png" alt="Chainlink" width="40" height="40"/> </a>
 <a href="https://www.alchemy.com/" target="_blank" rel="noreferrer"> <img src="https://en.bitcoinwiki.org/upload/en/images/a/a6/Alchemy.png" alt="Alchemy" width="40" height="40"/> </a>
-<a href="https://thegraph.com/en/" target="_blank" rel="noreferrer"> <img src="https://2652102303-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/spaces%2F-MSx5Odp8g1EfjXW79Rq%2Favatar-1613562923821.png?generation=1613562924233254&alt=media" alt="Graph" width="40" height="40"/> </a>
+
 <a href="https://aave.com/" target="_blank" rel="noreferrer"> <img src="https://cryptologos.cc/logos/aave-aave-logo.png" alt="Aave" width="40" height="40"/> </a>
 </p>
 
